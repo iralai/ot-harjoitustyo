@@ -7,4 +7,4 @@ Olen opetellut käyttämään *terminaalia* ja *gittiä*.
 
 [komentorivi.txt](https://github.com/iralai/ot-harjoitustyo/blob/master/laskarit/viikko1/komentorivi.txt)
 
-[gitlog.txt]()
+[gitlog.txt](https://github.com/iralai/ot-harjoitustyo/blob/master/laskarit/viikko1/gitlog.txt)
