@@ -1,0 +1,124 @@
+Ira@DESKTOP-4AQGOVR MINGW64 ~/ot_viikko1/tiedostoja (master)
+$ git log --stat | cat
+commit 0e631454b953dda395f94e97aeb8f7916c7df5b7
+Author: Ira Laihanen <ira.laihanen@helsinki.fi>
+Date:   Tue Nov 8 18:06:29 2022 +0200
+
+    poistettiin file1, nimettiin uudelleen file2 --> file22
+
+ tiedostoja/file2             | 0
+ tiedostoja/{file1 => file22} | 0
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+
+commit b8e65a209082d3847f0c17c832f129de75b95949
+Author: Ira Laihanen <ira.laihanen@helsinki.fi>
+Date:   Tue Nov 8 18:01:43 2022 +0200
+
+    lisättiin file1, file2 ja file3
+
+ tiedostoja/file1 | 0
+ tiedostoja/file2 | 0
+ tiedostoja/file3 | 0
+ 3 files changed, 0 insertions(+), 0 deletions(-)
+
+commit ddf6206974cff3dda248c4c8f573f28ebff8b01d
+Author: Ira Laihanen <ira.laihanen@helsinki.fi>
+Date:   Tue Nov 8 17:48:36 2022 +0200
+
+    muutoksia sekä eka.txt että kolmas.txt, lisäyksiä ja poistoja
+
+ eka.txt    | 9 ++-------
+ kolmas.txt | 7 ++++---
+ 2 files changed, 6 insertions(+), 10 deletions(-)
+
+commit b53a4e9451abea82bd5c24200e6bb17c7af6dd0f
+Author: Ira Laihanen <ira.laihanen@helsinki.fi>
+Date:   Tue Nov 8 17:45:03 2022 +0200
+
+    tiedosto.txt sai uuden nimen: eka.txt
+
+ tiedosto.txt => eka.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 1487604df3832975bbfd0e125b7298267d222352
+Author: Ira Laihanen <ira.laihanen@helsinki.fi>
+Date:   Tue Nov 8 17:41:45 2022 +0200
+
+    poistettiin toinen.txt
+
+ toinen.txt | 1 -
+ 1 file changed, 1 deletion(-)
+
+commit 526f2f38f799747a294dfe1ac23a294e4f9dce48
+Author: Ira Laihanen <ira.laihanen@helsinki.fi>
+Date:   Tue Nov 8 17:37:35 2022 +0200
+
+    muutettiin tiedosto.txt vähän
+
+ tiedosto.txt | 3 +--
+ 1 file changed, 1 insertion(+), 2 deletions(-)
+
+commit ea0c224c5ca785eead7751b34665c9f61c99247f
+Author: Ira Laihanen <ira.laihanen@helsinki.fi>
+Date:   Tue Nov 8 17:35:38 2022 +0200
+
+    bee movie script lisätty
+
+ tiedosto.txt | 174 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++-
+ 1 file changed, 172 insertions(+), 2 deletions(-)
+
+commit 9a1893f9e9cc93959c20b76a9bfea23b2e4cfc1f
+Author: Ira Laihanen <ira.laihanen@helsinki.fi>
+Date:   Tue Nov 8 17:13:57 2022 +0200
+
+    jokutiedosto.txt luotu
+
+ stuff/jokutiedosto.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 3173907a6113c1105249052d4404397739cdd291
+Author: Ira Laihanen <ira.laihanen@helsinki.fi>
+Date:   Tue Nov 8 17:09:43 2022 +0200
+
+    muutoksia myös kolmas.txt
+
+ kolmas.txt | 3 +++
+ 1 file changed, 3 insertions(+)
+
+commit 67cd87ad6966d592a1670d5f2ba4337dbae4fa96
+Author: Ira Laihanen <ira.laihanen@helsinki.fi>
+Date:   Tue Nov 8 17:08:30 2022 +0200
+
+    muutoksia toinen.txt
+
+ toinen.txt | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit 13cec2ba4587e046c395d56b750554181a5ff463
+Author: Ira Laihanen <ira.laihanen@helsinki.fi>
+Date:   Tue Nov 8 17:01:11 2022 +0200
+
+    kolmas.txt luotu
+
+ kolmas.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 15122c63ed1c7850e0b7b3ed3c37e45f1608106b
+Author: Ira Laihanen <ira.laihanen@helsinki.fi>
+Date:   Tue Nov 8 16:43:26 2022 +0200
+
+    muutos ja lisäys
+
+ tiedosto.txt | 3 +++
+ toinen.txt   | 0
+ 2 files changed, 3 insertions(+)
+
+commit fd3109f23e2047e0d37d627d4e6b5a4b2f930193
+Author: Ira Laihanen <ira.laihanen@helsinki.fi>
+Date:   Tue Nov 8 16:31:41 2022 +0200
+
+    tiedosto.txt luotu
+
+ tiedosto.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
