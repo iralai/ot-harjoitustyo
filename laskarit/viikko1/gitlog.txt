@@ -1,3 +1,5 @@
+pieni muutos githubin etärepositoriossa
+
 Ira@DESKTOP-4AQGOVR MINGW64 ~/ot_viikko1/tiedostoja (master)
 $ git log --stat | cat
 commit 0e631454b953dda395f94e97aeb8f7916c7df5b7
