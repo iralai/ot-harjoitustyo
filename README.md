@@ -1,4 +1,4 @@
-# Tässä suuri otsikkoni
+# Ohjelmistotekniikka
 
 Tämä on kurssin **Ohjelmistotekniikka** ensimmäinen viikko.
 Olen opetellut käyttämään *terminaalia* ja *gittiä*.
