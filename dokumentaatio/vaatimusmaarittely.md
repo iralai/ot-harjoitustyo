@@ -16,7 +16,7 @@ käyttäjärooleja on mahdollista lisätä.
 - Viikkonäkymä, jossa päivämäärät ja joka päivän tehtävät
 - Päivänäkymä, josta käyttäjä näkee mitä tehtäviä sille päivälle on asetettu hoidettavaksi ja mahdolliset muistiinpanot
 - Uusien tehtävien asettaminen sekä priorisointi (tärkeysjärjestys)
-  - max. kolme kiireellisyysluokkaa (merkitään esim. eri värein tai emojeilla)
+  - max. kolme kiireellisyysluokkaa (merkitään esim. eri värein tai symboleilla)
 - Tehtävän merkkaaminen tehtyksi
   - päivänäkymään kohta "Tehdyt tehtävät", johon tehtävä siirtyy kun se merkataan tehdyksi
 - Tekemättä jääneen tehtävän siirtäminen toiselle päivälle
