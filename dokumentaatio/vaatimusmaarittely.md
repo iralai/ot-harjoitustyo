@@ -13,10 +13,17 @@ käyttäjärooleja on mahdollista lisätä.
 #### Suunnitellut toiminnallisuudet
 - Käyttäjätunnuksen ja salasanan luominen
 - Järjestelmään kirjautuminen
-- Viikkonäkymä, jossa päivämäärät ja ehkä myös joka päivälle asetetut tehtävät
-- Päivänäkymä, josta käyttäjä näkee mitä tehtäviä sille päivälle on asetettu hoidettavaksi
+- Viikkonäkymä, jossa päivämäärät ja joka päivän tehtävät
+- Päivänäkymä, josta käyttäjä näkee mitä tehtäviä sille päivälle on asetettu hoidettavaksi ja mahdolliset muistiinpanot
 - Uusien tehtävien asettaminen sekä priorisointi (tärkeysjärjestys)
-- Tehtävän poistaminen/yliviivaaminen kun se on hoidettu
+  - max. kolme kiireellisyysluokkaa (merkitään esim. eri värein tai emojeilla)
+- Tehtävän merkkaaminen tehtyksi
+  - päivänäkymään kohta "Tehdyt tehtävät", johon tehtävä siirtyy kun se merkataan tehdyksi
 - Tekemättä jääneen tehtävän siirtäminen toiselle päivälle
-- Trackerit, esimerkiksi unen määrän seuraus päivittäin
+  - asetetaan uusi päivämäärä tai siirretään huomiselle
 - Uloskirjautuminen
+
+#### Ideoita jatkokehitykseen
+- Trackerit
+  - niiden lisääminen ja päivittäminen
+  - esimerkiksi unen määrän tai mielialan seuraaminen päivittäin
